@@ -1,0 +1,162 @@
+
+
+
+.icono{
+	font-size: 120px;
+}
+
+.logo img{
+	max-width: 30%;
+	height: auto;
+}
+
+.mp{
+	height: 300px;
+}
+
+.bg_icons{
+	background: #423E28;
+}
+
+h1,
+h2,
+h3,
+h4
+h5{
+	font-family: 'Red Hat Text', sans-serif;
+}
+
+h4{
+	font-size: 15px;
+}
+
+h3{
+	font-size: 18px;
+}
+
+p{
+	font-family: 'Red Hat Text', sans-serif;
+	
+}
+	
+.w-30{
+	width: 30%;
+}
+
+.text_font{
+	font-family: 'Red Hat Text', sans-serif;
+}
+
+.texto-blanco{
+	color: #FFFFFF;
+}
+
+.bg_footer{
+	background:#2e3131;
+}
+
+.mt-7{
+	margin-top: 70px;
+}
+
+.paginacion {
+			width:100%;
+			float: left;
+			margin-top: 60px;
+			text-align:center;
+			background: rgba(0,0,0,0) !important;
+
+		}
+
+		.paginacion a,
+		.paginacion .pages,
+		.paginacion .larger {
+			margin: 5px;
+			padding: 10px;
+			font-size:18px !important;
+			border-radius: 2px;
+			text-decoration: none;
+			border: solid 1px #2e3131;
+			color: #2e3131;
+			-moz-border-radius: 2px;
+			-webkit-border-radius: 2px;
+
+			-webkit-transition: all 500ms ease;
+			-moz-transition: all 500ms ease;
+			-ms-transition: all 500ms ease;
+			-o-transition: all 500ms ease;
+			transition: all 500ms ease;
+
+		}
+
+		.paginacion a:hover {
+			color:#fff;
+			background: #2e3131;
+			border: solid 1px #2e3131
+		}
+
+		.paginacion .current {
+			text-decoration:none;
+			margin: 5px;
+			padding: 10px;
+			font-size:18px;
+			border: solid 1px #2e3131 !important;
+			text-transform: uppercase;
+			background:#2e3131;
+			color:#fff;
+			border-radius: 2px;
+			-moz-border-radius: 2px;
+			-webkit-border-radius: 2px;
+		}
+
+.paginacion{
+				width:100% !important;
+				float:left !important;
+				margin-top: 90px;
+			}
+			
+			.mb-aling {
+				position: relative;
+			}
+			
+			.mb-b {
+				position: absolute;
+				bottom: 5%;
+				left: 30%;
+				font-size: 9px;
+				border-radius: 5%;
+			}
+			
+			.iframe-alto {
+				max-height: 300px !important;
+			}
+			div.wpforms-container-full .wpforms-form input[type="text"] {
+				width: 100% !important;
+				border: solid 5px #000;
+			}
+			
+			.paginacion{
+				width:100% !important;
+				float:left !important;
+				margin-top: 90px;
+			}
+	
+.dropdown-item:active {
+	color: #fff;
+	text-decoration: none;
+	background-color: #2e3131!important;
+}
+
+.px-10{
+	padding-right:  150px;
+	padding-left: 150px;
+}
+
+div.wpforms-container-full .wpforms-form button[type="submit"]{
+background-color: #EEE;
+border: 1px solid #DDD;
+color: #333;
+border-radius: 50px;
+font-size: 1em;
+padding: 10px 15px;
+}
